@@ -1,4 +1,0 @@
-cd /path/to/your/local/repository
-git add countrypops.csv
-git add .
-git commit -m "Add countrypops.csv"
